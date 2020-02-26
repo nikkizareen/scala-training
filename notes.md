@@ -22,4 +22,16 @@ touch file1.txt
 # man gives instructions on how to use a particular unix command
 man mv
 
+# git commands 
+# this initialises a git repo
+git init 
+
+# this adds everything we want to push up to the repo
+git add .
+
+# make a commit with a comment
+git commit -m "comment"
+
+# push code up to your current branch
+git push 
 ```
