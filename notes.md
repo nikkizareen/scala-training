@@ -13,10 +13,18 @@ mv src/main/scala/Main.scala src/main/scala/playground/
 
 # nikki notes
 
+## mac commands
+```bash
+# comments out blocks of code
+CMD + /
+```
+
+
 ## terminal notes
 
 ```bash
-# the douch command adds a new file
+
+# the touch command adds a new file
 touch file1.txt
 
 # man gives instructions on how to use a particular unix command
