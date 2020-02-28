@@ -29,3 +29,23 @@ object Quintin {
     "Quntin is a cat which is  " + colour3 + " " + "and likes to eat " + food3
 }
 Quintin.cat3(colour3 = "Tabby and White", food3 = "Curry")
+
+object calc{
+  def cube(x:Double):Double =
+    x * x
+  def square(x:Double):Double = x + cube(x:Double)
+}
+calc.cube(1.1)
+
+object person{
+  val firstName = "Nikki"
+  val lastName = "Zareen"
+}
+object alien{
+  def great(p:person.type )=
+    "Hello" + person.firstName + "  " + person.lastName
+
+}
+alien.great(person)
+
+
