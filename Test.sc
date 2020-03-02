@@ -48,4 +48,17 @@ object alien{
 }
 alien.great(person)
 
+object person2{
+  val hair = "Blonde"
+  val eyes = "Green"
+}
+object description{
+  def describe(p:person.type):String =
+    "Hello" + " " + person.firstName + "you have  " + person2.eyes + "eyes"
+
+}
+
+
+
+
 
