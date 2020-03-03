@@ -34,6 +34,7 @@
 
 
 
+
  //case class VehicleState( vehicleid:Int, lat:Double, long: Double, Model:String, State:String)
 //    val vehiclestate1:VehicleState = new VehicleState (vehicle1.vehicleid, vehicle1.lat, vehicle1.long, vehicle1.Model,vehicle1.state)
 //    val vehiclestate2:VehicleState = new VehicleState (vehicle2.vehicleid, vehicle2.lat, vehicle2.long, vehicle2.Model,vehicle2.state)
